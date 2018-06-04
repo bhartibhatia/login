@@ -422,7 +422,7 @@ public class login2 extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(this, "LOGIN SUCCESSFUL");
              courses c=new courses();
              c.setVisible(true);
-             c.setSize(900,900);
+             c.setSize(900,700);
              this.dispose();
         }
         else 
